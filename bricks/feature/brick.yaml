@@ -1,9 +1,9 @@
-name: feature
+name: clean_dart_feature
 description: create the folder structure for any new feature
 
 # The following defines the brick repository url.
 # Uncomment and update the following line before publishing the brick.
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/LimaNathan/mason-bricks.git
 
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
